@@ -1,0 +1,4 @@
+    1  sudo rm -r family
+    2  ls
+    3  sudo rm -r friends
+    4  ls
